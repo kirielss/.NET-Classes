@@ -1,0 +1,15 @@
+C:\workspace\COMPUTACAO\VisualStudio\Prova01\Prova01\bin\Debug\net6.0\Prova01.exe
+C:\workspace\COMPUTACAO\VisualStudio\Prova01\Prova01\bin\Debug\net6.0\Prova01.deps.json
+C:\workspace\COMPUTACAO\VisualStudio\Prova01\Prova01\bin\Debug\net6.0\Prova01.runtimeconfig.json
+C:\workspace\COMPUTACAO\VisualStudio\Prova01\Prova01\bin\Debug\net6.0\Prova01.dll
+C:\workspace\COMPUTACAO\VisualStudio\Prova01\Prova01\bin\Debug\net6.0\Prova01.pdb
+C:\workspace\COMPUTACAO\VisualStudio\Prova01\Prova01\obj\Debug\net6.0\Prova01.csproj.AssemblyReference.cache
+C:\workspace\COMPUTACAO\VisualStudio\Prova01\Prova01\obj\Debug\net6.0\Prova01.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\COMPUTACAO\VisualStudio\Prova01\Prova01\obj\Debug\net6.0\Prova01.AssemblyInfoInputs.cache
+C:\workspace\COMPUTACAO\VisualStudio\Prova01\Prova01\obj\Debug\net6.0\Prova01.AssemblyInfo.cs
+C:\workspace\COMPUTACAO\VisualStudio\Prova01\Prova01\obj\Debug\net6.0\Prova01.csproj.CoreCompileInputs.cache
+C:\workspace\COMPUTACAO\VisualStudio\Prova01\Prova01\obj\Debug\net6.0\Prova01.dll
+C:\workspace\COMPUTACAO\VisualStudio\Prova01\Prova01\obj\Debug\net6.0\refint\Prova01.dll
+C:\workspace\COMPUTACAO\VisualStudio\Prova01\Prova01\obj\Debug\net6.0\Prova01.pdb
+C:\workspace\COMPUTACAO\VisualStudio\Prova01\Prova01\obj\Debug\net6.0\Prova01.genruntimeconfig.cache
+C:\workspace\COMPUTACAO\VisualStudio\Prova01\Prova01\obj\Debug\net6.0\ref\Prova01.dll
