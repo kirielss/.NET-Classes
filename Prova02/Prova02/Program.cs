@@ -106,6 +106,38 @@ namespace Prova02
                 Console.WriteLine("Fora de intervalo");
             }
 
+            Console.WriteLine("Questão 07");
+            string[] arr4 = Console.ReadLine().Split(' ');
+
+            double x = double.Parse(arr4[0], CultureInfo.InvariantCulture);
+            double y = double.Parse(arr4[1], CultureInfo.InvariantCulture);
+
+            if (x == 0 && y == 0)
+            {
+                Console.WriteLine("Origem");
+            } else if (x == 0 || y == 0)
+            {
+                if (x == 0)
+                {
+                    Console.WriteLine("Eixo X");
+                } else
+                {
+                    Console.WriteLine("Eixo Y");
+                }
+            } else if (x > 0 && y > 0)
+            {
+                Console.WriteLine("Q1");
+            } else if (x > 0 && y < 0)
+            {
+                Console.WriteLine("Q4");
+            } else if (x < 0 && y < 0)
+            {
+                Console.WriteLine("Q3");
+            } else
+            {
+                Console.WriteLine("Q2");
+            }
+
 
 
 
