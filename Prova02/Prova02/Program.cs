@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 
 namespace Prova02
 {
@@ -58,6 +59,30 @@ namespace Prova02
             int item = int.Parse(arr3[0]);
             int qtd = int.Parse(arr3[1]);
 
+            double preco = 0.0;
+
+            if (item == 1)
+            {
+                preco = 4.00;
+            } else if (item == 2)
+            {
+                preco = 4.50;
+            } else if (item == 3)
+            {
+                preco = 5.00;
+            } else if (item == 4)
+            {
+                preco = 2.00;
+            } else if (item == 5)
+            {
+                preco = 1.50;
+            } else
+            {
+                Console.WriteLine("Pedido não encontrado no cardápio!");
+            }
+
+            double total = preco * qtd;
+            Console.WriteLine("Total: R$ " + total.ToString("F2", CultureInfo.InvariantCulture));
 
         }
     }
