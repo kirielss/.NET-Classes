@@ -15,6 +15,16 @@ namespace Prova02
             {
                 Console.WriteLine("NÃO NEGATIVO");
             }
+
+            Console.WriteLine("Questão 02");
+            int num2 = int.Parse(Console.ReadLine());
+            if (num2 % 2 == 0)
+            {
+                Console.WriteLine("PAR");
+            } else
+            {
+                Console.WriteLine("IMPAR");
+            }
         }
     }
 }
