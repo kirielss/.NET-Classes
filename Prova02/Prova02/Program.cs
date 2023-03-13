@@ -39,6 +39,18 @@ namespace Prova02
             {
                 Console.WriteLine("Nao sao Multiplos");
             }
+
+            Console.WriteLine("Questão 04");
+            string[] arr2 = Console.ReadLine().Split(' ');
+
+            int ini = int.Parse(arr2[0]);
+            int fim = int.Parse(arr2[1]);
+
+            if (ini >= fim)
+            {
+                fim += 24;
+            }
+            Console.WriteLine($"O JOGO DUROU {fim - ini} HORA(S)");
         }
     }
 }
