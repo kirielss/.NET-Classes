@@ -51,6 +51,14 @@ namespace Prova02
                 fim += 24;
             }
             Console.WriteLine($"O JOGO DUROU {fim - ini} HORA(S)");
+
+            Console.WriteLine("Questão 05");
+            string[] arr3 = Console.ReadLine().Split(' ');
+
+            int item = int.Parse(arr3[0]);
+            int qtd = int.Parse(arr3[1]);
+
+
         }
     }
 }
