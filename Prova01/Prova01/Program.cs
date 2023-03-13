@@ -30,8 +30,20 @@ namespace Prova01
             double z = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             double salario = y * z;
             Console.WriteLine($"NUMBER = {x}");
-            Console.WriteLine($"SALARY = {salario.ToString("F2", CultureInfo.InvariantCulture)}");
+            Console.WriteLine($"SALARY = U$ {salario.ToString("F2", CultureInfo.InvariantCulture)}");
 
+            Console.WriteLine("Questão 5");
+            string[] array1 = Console.ReadLine().Split(' ');
+            string[] array2 = Console.ReadLine().Split(' ');
+
+            int qtd1 = int.Parse(array1[1]);
+            int qtd2 = int.Parse(array2[1]);
+
+            double v1 = double.Parse(array1[2], CultureInfo.InvariantCulture);
+            double v2 = double.Parse(array2[2], CultureInfo.InvariantCulture);
+
+            double conta = (qtd1 * v1) + (qtd2 * v2);
+            Console.WriteLine("VALOR A PAGAR: R$ " + conta.ToString("F2", CultureInfo.InvariantCulture));
         }
     }
 }
