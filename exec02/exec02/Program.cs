@@ -16,9 +16,9 @@ namespace exec02
             Console.WriteLine("Agora digite seu nome, sexo, idade e altura respectivamente");
             string[] array = Console.ReadLine().Split(' ');
             string nome = array[0];
-            string sexo = array[1];
-            string idade = array[2];
-            string altura = array[3];
+            char sexo = char.Parse(array[1]);
+            int idade = int.Parse(array[2]);
+            double altura = double.Parse(array[3], CultureInfo.InvariantCulture);
 
             Console.WriteLine("Você digitou: ");
             Console.WriteLine(n1);
@@ -27,7 +27,7 @@ namespace exec02
             Console.WriteLine(nome);
             Console.WriteLine(sexo);
             Console.WriteLine(idade);
-            Console.WriteLine(altura);
+            Console.WriteLine(altura.ToString("F2", CultureInfo.InvariantCulture));
         }
     }
 }
