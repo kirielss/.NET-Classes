@@ -40,8 +40,32 @@ namespace Prova03
                 arr = Console.ReadLine().Split(' ');
                 a = int.Parse(arr[0]);
                 b = int.Parse(arr[1]);
-            } 
+            }
 
+            Console.WriteLine("Questão 03");
+            int x = int.Parse(Console.ReadLine());
+            int alcool = 0;
+            int gasol = 0;
+            int diesel = 0;
+
+            while (x != 4)
+            {
+                if (x == 1)
+                {
+                    alcool++;
+                } else if (x == 2)
+                {
+                    gasol++;
+                } else if (x == 3)
+                {
+                    diesel++;
+                }
+                x = int.Parse(Console.ReadLine());
+            }
+            Console.WriteLine("MUITO OBRIGADO");
+            Console.WriteLine($"Alcool: {alcool}");
+            Console.WriteLine($"Gasolina: {gasol}");
+            Console.WriteLine($"Diesel: {diesel}");
         }
     }
 }
