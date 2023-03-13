@@ -12,7 +12,7 @@ namespace Course3
             string y = Console.ReadLine();
             string z = Console.ReadLine();
 
-            string[] array = Console.ReadLine().Split(' ');
+            string[] array = Console.ReadLine().Split(' '); 
             string a = array[0];
             string b = array[1];
             string c = array[2];
