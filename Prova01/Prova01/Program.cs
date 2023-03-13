@@ -24,6 +24,14 @@ namespace Prova01
             int DIFERENCA = (A * B - C * D);
             Console.WriteLine(DIFERENCA);
 
+            Console.WriteLine("Questão 4");
+            int x = int.Parse(Console.ReadLine());
+            int y = int.Parse(Console.ReadLine());
+            double z = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            double salario = y * z;
+            Console.WriteLine(x);
+            Console.WriteLine(salario.ToString("F2", CultureInfo.InvariantCulture));
+
         }
     }
 }
