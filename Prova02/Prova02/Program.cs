@@ -138,10 +138,29 @@ namespace Prova02
                 Console.WriteLine("Q2");
             }
 
+            Console.WriteLine("Questão 08");
+            double z = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            double result = 0.0;
 
-
-
-
+            if (z >= 0 && z <= 2000)
+            {
+                Console.WriteLine("Isento");
+            } else if (z > 2000 && z <= 3000)
+            {
+                z -= 2000;
+                result = z * 0.08;
+                Console.WriteLine("R$ " + result.ToString("F2", CultureInfo.InvariantCulture));
+            } else if (z > 3000 && z <= 4500)
+            {
+                z -= 3000;
+                result = z * 0.18 + 80;
+                Console.WriteLine("R$ " + result.ToString("F2", CultureInfo.InvariantCulture));
+            } else
+            {
+                z -= 4500;
+                result = z * 0.28 + 270 + 80;
+                Console.WriteLine("R$ " + result.ToString("F2", CultureInfo.InvariantCulture));
+            }
 
         }
     }
