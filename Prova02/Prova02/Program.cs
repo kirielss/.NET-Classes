@@ -84,6 +84,33 @@ namespace Prova02
             double total = preco * qtd;
             Console.WriteLine("Total: R$ " + total.ToString("F2", CultureInfo.InvariantCulture));
 
+            Console.WriteLine("Questão 06");
+            double numb = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+
+
+            if ((numb >= 0) && (numb <= 25))
+            {
+                Console.WriteLine("Intervalo [0,25]");
+            } else if ((numb > 25) && (numb <= 50))
+            {
+                Console.WriteLine("Intervalo (25,50]");
+            } else if ((numb > 50) && (numb <= 75))
+            {
+                Console.WriteLine("Intervalo (50,75]");
+            } else if ((numb > 75) && (numb <= 100))
+            {
+                Console.WriteLine("Intervalo (75,100]");
+            } else
+            {
+                Console.WriteLine("Fora de intervalo");
+            }
+
+
+
+
+
+
         }
     }
 }
