@@ -25,6 +25,20 @@ namespace Prova02
             {
                 Console.WriteLine("IMPAR");
             }
+
+            Console.WriteLine("Questão 03");
+            string[] arr = Console.ReadLine().Split(' ');
+
+            int a = int.Parse(arr[0]);
+            int b = int.Parse(arr[1]);
+
+            if ((a % b == 0) || (b % a == 0))
+            {
+                Console.WriteLine("Sao Multiplos");
+            } else
+            {
+                Console.WriteLine("Nao sao Multiplos");
+            }
         }
     }
 }
