@@ -51,6 +51,24 @@ namespace Prova04
 
                 Console.WriteLine((((2 * a) + (3 * b) + (5 * c)) / 10).ToString("F1", CultureInfo.InvariantCulture));
             }
+
+            Console.WriteLine("Questão 04");
+            int N4 = int.Parse(Console.ReadLine());
+
+            for (int i = 1; i <= N4; i++)
+            {
+                string[] arr = Console.ReadLine().Split(' ');
+                double a = double.Parse(arr[0]);
+                double b = double.Parse(arr[1]);
+
+                if (b == 0)
+                {
+                    Console.WriteLine("divisao impossivel");
+                } else
+                {
+                    Console.WriteLine((a/b).ToString("F1", CultureInfo.InvariantCulture));
+                }
+            }
         }
     }
 }
