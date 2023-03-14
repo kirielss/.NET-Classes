@@ -88,6 +88,18 @@ namespace Prova04
                 }
                 Console.WriteLine(result);
             }
+
+            Console.WriteLine("Questão 06");
+
+            int N6 = int.Parse(Console.ReadLine());
+
+            for (int i = 1; i <= N6; i++)
+            {
+                if (N6 % i == 0)
+                {
+                    Console.WriteLine(i);
+                }
+            }
         }
     }
 }
