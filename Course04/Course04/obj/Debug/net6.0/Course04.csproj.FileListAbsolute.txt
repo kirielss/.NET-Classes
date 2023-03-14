@@ -1,0 +1,15 @@
+C:\workspace\COMPUTACAO\VisualStudio\Course04\Course04\obj\Debug\net6.0\Course04.csproj.AssemblyReference.cache
+C:\workspace\COMPUTACAO\VisualStudio\Course04\Course04\obj\Debug\net6.0\Course04.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\COMPUTACAO\VisualStudio\Course04\Course04\obj\Debug\net6.0\Course04.AssemblyInfoInputs.cache
+C:\workspace\COMPUTACAO\VisualStudio\Course04\Course04\obj\Debug\net6.0\Course04.AssemblyInfo.cs
+C:\workspace\COMPUTACAO\VisualStudio\Course04\Course04\obj\Debug\net6.0\Course04.csproj.CoreCompileInputs.cache
+C:\workspace\COMPUTACAO\VisualStudio\Course04\Course04\bin\Debug\net6.0\Course04.exe
+C:\workspace\COMPUTACAO\VisualStudio\Course04\Course04\bin\Debug\net6.0\Course04.deps.json
+C:\workspace\COMPUTACAO\VisualStudio\Course04\Course04\bin\Debug\net6.0\Course04.runtimeconfig.json
+C:\workspace\COMPUTACAO\VisualStudio\Course04\Course04\bin\Debug\net6.0\Course04.dll
+C:\workspace\COMPUTACAO\VisualStudio\Course04\Course04\bin\Debug\net6.0\Course04.pdb
+C:\workspace\COMPUTACAO\VisualStudio\Course04\Course04\obj\Debug\net6.0\Course04.dll
+C:\workspace\COMPUTACAO\VisualStudio\Course04\Course04\obj\Debug\net6.0\refint\Course04.dll
+C:\workspace\COMPUTACAO\VisualStudio\Course04\Course04\obj\Debug\net6.0\Course04.pdb
+C:\workspace\COMPUTACAO\VisualStudio\Course04\Course04\obj\Debug\net6.0\Course04.genruntimeconfig.cache
+C:\workspace\COMPUTACAO\VisualStudio\Course04\Course04\obj\Debug\net6.0\ref\Course04.dll
