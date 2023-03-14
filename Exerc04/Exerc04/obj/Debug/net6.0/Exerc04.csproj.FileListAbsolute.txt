@@ -1,0 +1,15 @@
+C:\workspace\COMPUTACAO\VisualStudio\Exerc04\Exerc04\obj\Debug\net6.0\Exerc04.csproj.AssemblyReference.cache
+C:\workspace\COMPUTACAO\VisualStudio\Exerc04\Exerc04\obj\Debug\net6.0\Exerc04.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\COMPUTACAO\VisualStudio\Exerc04\Exerc04\obj\Debug\net6.0\Exerc04.AssemblyInfoInputs.cache
+C:\workspace\COMPUTACAO\VisualStudio\Exerc04\Exerc04\obj\Debug\net6.0\Exerc04.AssemblyInfo.cs
+C:\workspace\COMPUTACAO\VisualStudio\Exerc04\Exerc04\obj\Debug\net6.0\Exerc04.csproj.CoreCompileInputs.cache
+C:\workspace\COMPUTACAO\VisualStudio\Exerc04\Exerc04\bin\Debug\net6.0\Exerc04.exe
+C:\workspace\COMPUTACAO\VisualStudio\Exerc04\Exerc04\bin\Debug\net6.0\Exerc04.deps.json
+C:\workspace\COMPUTACAO\VisualStudio\Exerc04\Exerc04\bin\Debug\net6.0\Exerc04.runtimeconfig.json
+C:\workspace\COMPUTACAO\VisualStudio\Exerc04\Exerc04\bin\Debug\net6.0\Exerc04.dll
+C:\workspace\COMPUTACAO\VisualStudio\Exerc04\Exerc04\bin\Debug\net6.0\Exerc04.pdb
+C:\workspace\COMPUTACAO\VisualStudio\Exerc04\Exerc04\obj\Debug\net6.0\Exerc04.dll
+C:\workspace\COMPUTACAO\VisualStudio\Exerc04\Exerc04\obj\Debug\net6.0\refint\Exerc04.dll
+C:\workspace\COMPUTACAO\VisualStudio\Exerc04\Exerc04\obj\Debug\net6.0\Exerc04.pdb
+C:\workspace\COMPUTACAO\VisualStudio\Exerc04\Exerc04\obj\Debug\net6.0\Exerc04.genruntimeconfig.cache
+C:\workspace\COMPUTACAO\VisualStudio\Exerc04\Exerc04\obj\Debug\net6.0\ref\Exerc04.dll
