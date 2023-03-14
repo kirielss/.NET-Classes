@@ -100,6 +100,17 @@ namespace Prova04
                     Console.WriteLine(i);
                 }
             }
+
+            Console.WriteLine("Questão 07");
+
+            int N7 = int.Parse(Console.ReadLine());
+
+            for (int i = 1; i <= N7; i++)
+            {
+                Console.Write(i + " ");
+                Console.Write(Math.Pow(i, 2) + " ");
+                Console.WriteLine(Math.Pow(i, 3));
+            }
         }
     }
 }
