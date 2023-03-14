@@ -19,19 +19,19 @@ namespace Course04
             x.Quantidade = int.Parse(Console.ReadLine());
 
             total = x.ValorTotalEmEstoque();
-            Console.WriteLine("Dados do produto: " + x.Nome + ", $ " + x.Preco.ToString("F2", CultureInfo.InvariantCulture) + ", " + x.Quantidade + " unidades, Total: $ " + total.ToString("F2", CultureInfo.InvariantCulture));
+            Console.WriteLine("Dados do produto: " + x + total.ToString("F2", CultureInfo.InvariantCulture));
 
             Console.Write("Digite o número de produtos a ser adicionado ao estoque: ");
             x.AdicionarProdutos(int.Parse(Console.ReadLine()));
 
             total = x.ValorTotalEmEstoque();
-            Console.WriteLine("Dados atualizados: " + x.Nome + ", $ " + x.Preco.ToString("F2", CultureInfo.InvariantCulture) + ", " + x.Quantidade + " unidades, Total: $ " + total.ToString("F2", CultureInfo.InvariantCulture));
+            Console.WriteLine("Dados atualizados: " + x + total.ToString("F2", CultureInfo.InvariantCulture));
 
             Console.Write("Digite o número de produtos a ser removido do estoque: ");
             x.RemoverProdutos(int.Parse(Console.ReadLine()));
 
             total = x.ValorTotalEmEstoque();
-            Console.WriteLine("Dados atualizados: " + x.Nome + ", $ " + x.Preco.ToString("F2", CultureInfo.InvariantCulture) + ", " + x.Quantidade + " unidades, Total: $ " + total.ToString("F2", CultureInfo.InvariantCulture));
+            Console.WriteLine("Dados atualizados: " + x + total.ToString("F2", CultureInfo.InvariantCulture));
 
         }
     }

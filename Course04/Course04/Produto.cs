@@ -26,6 +26,10 @@ namespace Course04
             return;
         }
 
+        public override string ToString()
+        {
+            return Nome + ", $ " + Preco.ToString("F2", CultureInfo.InvariantCulture) + ", " + Quantidade + " unidades, Total: $ ";
+        }
 
 
     }
