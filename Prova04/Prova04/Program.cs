@@ -1,4 +1,5 @@
 ﻿using System;
+using System.ComponentModel;
 using System.Globalization;
 
 namespace Prova04
@@ -68,6 +69,24 @@ namespace Prova04
                 {
                     Console.WriteLine((a/b).ToString("F1", CultureInfo.InvariantCulture));
                 }
+
+            }
+
+            Console.WriteLine("Questão 05");
+
+            int N5 = int.Parse(Console.ReadLine());
+            int result = 1;
+
+
+            if (N5 == 0)
+            {
+                Console.WriteLine(1);
+            } else
+            {
+                for (int i = N5; i > 1; i--) {
+                    result = result * i;
+                }
+                Console.WriteLine(result);
             }
         }
     }
