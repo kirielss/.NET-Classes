@@ -1,0 +1,15 @@
+C:\workspace\COMPUTACAO\VisualStudio\Revisao04\Revisao04\bin\Debug\net6.0\Revisao04.exe
+C:\workspace\COMPUTACAO\VisualStudio\Revisao04\Revisao04\bin\Debug\net6.0\Revisao04.deps.json
+C:\workspace\COMPUTACAO\VisualStudio\Revisao04\Revisao04\bin\Debug\net6.0\Revisao04.runtimeconfig.json
+C:\workspace\COMPUTACAO\VisualStudio\Revisao04\Revisao04\bin\Debug\net6.0\Revisao04.dll
+C:\workspace\COMPUTACAO\VisualStudio\Revisao04\Revisao04\bin\Debug\net6.0\Revisao04.pdb
+C:\workspace\COMPUTACAO\VisualStudio\Revisao04\Revisao04\obj\Debug\net6.0\Revisao04.csproj.AssemblyReference.cache
+C:\workspace\COMPUTACAO\VisualStudio\Revisao04\Revisao04\obj\Debug\net6.0\Revisao04.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\COMPUTACAO\VisualStudio\Revisao04\Revisao04\obj\Debug\net6.0\Revisao04.AssemblyInfoInputs.cache
+C:\workspace\COMPUTACAO\VisualStudio\Revisao04\Revisao04\obj\Debug\net6.0\Revisao04.AssemblyInfo.cs
+C:\workspace\COMPUTACAO\VisualStudio\Revisao04\Revisao04\obj\Debug\net6.0\Revisao04.csproj.CoreCompileInputs.cache
+C:\workspace\COMPUTACAO\VisualStudio\Revisao04\Revisao04\obj\Debug\net6.0\Revisao04.dll
+C:\workspace\COMPUTACAO\VisualStudio\Revisao04\Revisao04\obj\Debug\net6.0\refint\Revisao04.dll
+C:\workspace\COMPUTACAO\VisualStudio\Revisao04\Revisao04\obj\Debug\net6.0\Revisao04.pdb
+C:\workspace\COMPUTACAO\VisualStudio\Revisao04\Revisao04\obj\Debug\net6.0\Revisao04.genruntimeconfig.cache
+C:\workspace\COMPUTACAO\VisualStudio\Revisao04\Revisao04\obj\Debug\net6.0\ref\Revisao04.dll
