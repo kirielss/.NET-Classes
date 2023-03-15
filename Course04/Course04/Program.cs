@@ -23,7 +23,7 @@ namespace Course04
 
             Console.Write("Digite o número de produtos a ser adicionado ao estoque: ");
             x.AdicionarProdutos(int.Parse(Console.ReadLine()));
-
+             
             total = x.ValorTotalEmEstoque();
             Console.WriteLine("Dados atualizados: " + x + total.ToString("F2", CultureInfo.InvariantCulture));
 
