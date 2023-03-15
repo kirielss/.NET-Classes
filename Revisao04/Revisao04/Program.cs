@@ -15,9 +15,12 @@ namespace Course
             double preco = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
 
-            // Produto p = new Produto(nome, preco);
+            Produto p = new Produto(nome, preco);
 
-            Produto p2 = new Produto();
+            Produto p2 = new Produto() {
+                Nome = "PC",
+                Preco = 2000.00
+            };
 
             Produto p3 = new Produto
             {
