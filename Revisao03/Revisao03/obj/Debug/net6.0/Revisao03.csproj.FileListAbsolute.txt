@@ -1,0 +1,15 @@
+C:\workspace\COMPUTACAO\VisualStudio\Revisao03\Revisao03\bin\Debug\net6.0\Revisao03.exe
+C:\workspace\COMPUTACAO\VisualStudio\Revisao03\Revisao03\bin\Debug\net6.0\Revisao03.deps.json
+C:\workspace\COMPUTACAO\VisualStudio\Revisao03\Revisao03\bin\Debug\net6.0\Revisao03.runtimeconfig.json
+C:\workspace\COMPUTACAO\VisualStudio\Revisao03\Revisao03\bin\Debug\net6.0\Revisao03.dll
+C:\workspace\COMPUTACAO\VisualStudio\Revisao03\Revisao03\bin\Debug\net6.0\Revisao03.pdb
+C:\workspace\COMPUTACAO\VisualStudio\Revisao03\Revisao03\obj\Debug\net6.0\Revisao03.csproj.AssemblyReference.cache
+C:\workspace\COMPUTACAO\VisualStudio\Revisao03\Revisao03\obj\Debug\net6.0\Revisao03.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\COMPUTACAO\VisualStudio\Revisao03\Revisao03\obj\Debug\net6.0\Revisao03.AssemblyInfoInputs.cache
+C:\workspace\COMPUTACAO\VisualStudio\Revisao03\Revisao03\obj\Debug\net6.0\Revisao03.AssemblyInfo.cs
+C:\workspace\COMPUTACAO\VisualStudio\Revisao03\Revisao03\obj\Debug\net6.0\Revisao03.csproj.CoreCompileInputs.cache
+C:\workspace\COMPUTACAO\VisualStudio\Revisao03\Revisao03\obj\Debug\net6.0\Revisao03.dll
+C:\workspace\COMPUTACAO\VisualStudio\Revisao03\Revisao03\obj\Debug\net6.0\refint\Revisao03.dll
+C:\workspace\COMPUTACAO\VisualStudio\Revisao03\Revisao03\obj\Debug\net6.0\Revisao03.pdb
+C:\workspace\COMPUTACAO\VisualStudio\Revisao03\Revisao03\obj\Debug\net6.0\Revisao03.genruntimeconfig.cache
+C:\workspace\COMPUTACAO\VisualStudio\Revisao03\Revisao03\obj\Debug\net6.0\ref\Revisao03.dll
