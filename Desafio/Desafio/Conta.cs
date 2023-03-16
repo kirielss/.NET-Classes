@@ -30,14 +30,14 @@ namespace Desafio
             }
         }
 
-        public double Deposito(double entrada)
+        public void Deposito(double entrada)
         {
-            return Saldo += entrada;
+           Saldo += entrada;
         }
 
-        public double Saque(double saida)
+        public void Saque(double saida)
         {
-            return Saldo -= saida + TAXA;
+           Saldo -= saida + TAXA;
         }
 
         public override string ToString()
