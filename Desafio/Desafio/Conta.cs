@@ -8,10 +8,10 @@ namespace Desafio
         private int TAXA = 5;
 
         private string _nome;
-        public int Numero { get; private set; }
+        public string Numero { get; private set; }
         public double Saldo { get; private set; }
 
-        public Conta(string nome, int numero, double saldo)
+        public Conta(string nome, string numero, double saldo)
         {
             _nome = nome;
             Numero = numero;

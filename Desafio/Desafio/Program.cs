@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Globalization;
+using System.Linq;
+using System.Text.RegularExpressions;
 
 namespace Desafio
 {
@@ -7,14 +9,23 @@ namespace Desafio
     {
         static void Main(string[] args)
         {
+
+            Regex rgx = new Regex(@"[\p{L} ]+$");
+
             double inicial = -1;
             Console.Write("Entre com o número da conta: ");
-            int num = int.Parse(Console.ReadLine());
+            string id = Console.ReadLine();
+
+            while (id == null || id.Length < 4 || !(id.All(char.IsDigit)))
+            {
+                Console.WriteLine("Erro! Insira um número de 4 ou mais dígitos, sem espaço");
+                id = Console.ReadLine();
+            }
 
             Console.Write("Entre com o nome do titular da conta: ");
             string pessoa = Console.ReadLine();
 
-            while (!(pessoa != null && pessoa.Split(' ').Length > 1))
+            while (!(pessoa != null && pessoa.Split(' ').Length > 1 && rgx.IsMatch(pessoa) ))
             {
                 Console.WriteLine("Atenção! Você deve digitar seu nome e sobrenome!");
                 pessoa = Console.ReadLine();
@@ -38,7 +49,7 @@ namespace Desafio
                 }
             }
 
-            Conta x = new Conta(pessoa, num, inicial);
+            Conta x = new Conta(pessoa, id, inicial);
 
             Console.WriteLine("Dados da conta: " + x);
 
