@@ -16,7 +16,7 @@ namespace Desafio
             Console.Write("Entre com o número da conta: ");
             string id = Console.ReadLine();
 
-            while (id == null || id.Length < 4 || !(id.All(char.IsDigit)))
+            while (id.Length < 4 || !(id.All(char.IsDigit)))
             {
                 Console.WriteLine("Erro! Insira um número de 4 ou mais dígitos, sem espaço");
                 id = Console.ReadLine();
@@ -25,7 +25,7 @@ namespace Desafio
             Console.Write("Entre com o nome do titular da conta: ");
             string pessoa = Console.ReadLine();
 
-            while (!(pessoa != null && pessoa.Split(' ').Length > 1 && rgx.IsMatch(pessoa) ))
+            while (!(pessoa.Split(' ').Length > 1 && rgx.IsMatch(pessoa) ))
             {
                 Console.WriteLine("Atenção! Você deve digitar seu nome e sobrenome!");
                 pessoa = Console.ReadLine();

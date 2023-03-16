@@ -23,7 +23,7 @@ namespace Desafio
             get { return _nome; }
             set
             {
-                if (value != null && value.Split(' ').Length > 1)
+                if (value.Split(' ').Length > 1)
                 {
                     _nome = value;
                 }
