@@ -37,7 +37,7 @@ namespace Desafio
 
         public double Saque(double saida)
         {
-            return Saldo -= saida - TAXA;
+            return Saldo -= saida + TAXA;
         }
 
         public override string ToString()
