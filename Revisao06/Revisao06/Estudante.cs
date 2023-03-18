@@ -8,13 +8,16 @@ namespace Revisao06
 {
     internal class Estudante
     {
-        public string Nome;
-        public string Email;
-        public int Quarto;
+        public string Nome { get; set; }
+        public string Email { get; set; }
 
+        public Estudante(string nome, string email) {
+            Nome = nome;
+            Email = email;
+        }
         public override string ToString()
         {
-            return $"{Quarto}: {Nome}, {Email}";
+            return $"{Nome}, {Email}";
         }
     }
 }
