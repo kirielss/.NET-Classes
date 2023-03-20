@@ -4,9 +4,9 @@ namespace Course7
 {
     class Calculator
     {
-        public static void Triple(ref int x)
+        public static void Triple(int x, out int result)
         {
-            x = x * 3;
+            result = x * 3;
         }
     }
 }
