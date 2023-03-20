@@ -7,7 +7,7 @@ namespace Course7
         static void Main(string[] args)
         {
             int a = 10;
-            Calculator.Triple(a);
+            Calculator.Triple(ref a);
             Console.WriteLine(a);
         }
     }
