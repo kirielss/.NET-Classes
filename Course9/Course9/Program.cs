@@ -21,14 +21,8 @@ namespace Course9
                 Console.WriteLine(nome);
             }
 
-            string teste = list.Find(Check);
+            string teste = list.Find(x => x[0] == 'A');
             Console.WriteLine("Primeiro nome que começa com A: " + teste);
-
-            static bool Check(string s)
-            {
-                return s[0] == 'A';
-            }
-
 
         }
     }
