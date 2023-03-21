@@ -29,6 +29,12 @@ namespace Course9
             string s2 = list.FindLast(x => x[0] == 'A');
             Console.WriteLine("Último nome que começa com A: " + s2);
 
+            int index1 = list.FindIndex(x => x[0] == 'A');
+            Console.WriteLine("Posição do primeiro nome começado com A: " + index1);
+
+            int index2 = list.FindLastIndex(x => x[0] == 'A');
+            Console.WriteLine("Posição do último nome começado com A: " + index2);
+
         }
     }
 }
