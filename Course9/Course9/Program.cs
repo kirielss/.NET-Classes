@@ -15,6 +15,8 @@ namespace Course9
             list.Add("Rodrigo");
             list.Add("Faro");
             list.Insert(3, "fkn");
+            list.Add("Cleiton");
+            list.Insert(4, "Asriel");
 
             foreach (string nome in list)
             {
@@ -23,6 +25,9 @@ namespace Course9
 
             string teste = list.Find(x => x[0] == 'A');
             Console.WriteLine("Primeiro nome que começa com A: " + teste);
+
+            string s2 = list.FindLast(x => x[0] == 'A');
+            Console.WriteLine("Último nome que começa com A: " + s2);
 
         }
     }
