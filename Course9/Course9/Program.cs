@@ -35,6 +35,13 @@ namespace Course9
             int index2 = list.FindLastIndex(x => x[0] == 'A');
             Console.WriteLine("Posição do último nome começado com A: " + index2);
 
+            List<string> list2 = list.FindAll(x => x.Length == 7);
+            Console.WriteLine("-------------------------");
+
+            foreach (string nome in list2)
+            {
+                Console.WriteLine(nome);
+            }
         }
     }
 }
