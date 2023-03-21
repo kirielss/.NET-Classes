@@ -1,0 +1,15 @@
+C:\workspace\COMPUTACAO\VisualStudio\Course8\Course8\bin\Debug\net6.0\Course8.exe
+C:\workspace\COMPUTACAO\VisualStudio\Course8\Course8\bin\Debug\net6.0\Course8.deps.json
+C:\workspace\COMPUTACAO\VisualStudio\Course8\Course8\bin\Debug\net6.0\Course8.runtimeconfig.json
+C:\workspace\COMPUTACAO\VisualStudio\Course8\Course8\bin\Debug\net6.0\Course8.dll
+C:\workspace\COMPUTACAO\VisualStudio\Course8\Course8\bin\Debug\net6.0\Course8.pdb
+C:\workspace\COMPUTACAO\VisualStudio\Course8\Course8\obj\Debug\net6.0\Course8.csproj.AssemblyReference.cache
+C:\workspace\COMPUTACAO\VisualStudio\Course8\Course8\obj\Debug\net6.0\Course8.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\COMPUTACAO\VisualStudio\Course8\Course8\obj\Debug\net6.0\Course8.AssemblyInfoInputs.cache
+C:\workspace\COMPUTACAO\VisualStudio\Course8\Course8\obj\Debug\net6.0\Course8.AssemblyInfo.cs
+C:\workspace\COMPUTACAO\VisualStudio\Course8\Course8\obj\Debug\net6.0\Course8.csproj.CoreCompileInputs.cache
+C:\workspace\COMPUTACAO\VisualStudio\Course8\Course8\obj\Debug\net6.0\Course8.dll
+C:\workspace\COMPUTACAO\VisualStudio\Course8\Course8\obj\Debug\net6.0\refint\Course8.dll
+C:\workspace\COMPUTACAO\VisualStudio\Course8\Course8\obj\Debug\net6.0\Course8.pdb
+C:\workspace\COMPUTACAO\VisualStudio\Course8\Course8\obj\Debug\net6.0\Course8.genruntimeconfig.cache
+C:\workspace\COMPUTACAO\VisualStudio\Course8\Course8\obj\Debug\net6.0\ref\Course8.dll
