@@ -58,6 +58,19 @@ namespace Course9
                 Console.WriteLine(nome);
             }
 
+            list.RemoveAt(2);
+            Console.WriteLine();
+            foreach (string nome in list)
+            {
+                Console.WriteLine(nome);
+            }
+
+            list.RemoveRange(1, 2);
+            Console.WriteLine();
+            foreach (string nome in list)
+            {
+                Console.WriteLine(nome);
+            }
         }
     }
 }
