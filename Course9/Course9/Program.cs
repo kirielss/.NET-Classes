@@ -42,6 +42,22 @@ namespace Course9
             {
                 Console.WriteLine(nome);
             }
+
+            list.Remove("Maria");
+            Console.WriteLine("-------------------------");
+
+            foreach (string nome in list)
+            {
+                Console.WriteLine(nome);
+            }
+
+            list.RemoveAll(x => x[0] == 'A');
+            Console.WriteLine();
+            foreach (string nome in list)
+            {
+                Console.WriteLine(nome);
+            }
+
         }
     }
 }
